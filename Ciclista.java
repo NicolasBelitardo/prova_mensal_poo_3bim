@@ -1,0 +1,3 @@
+interface Ciclista {
+    void pedalar();
+}
